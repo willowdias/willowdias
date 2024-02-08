@@ -1,7 +1,9 @@
 
 
 <div align="center">
-  <h1> <center>#Oiii eu sou Willow, criador De aplicaçao web e desktop</center></h1>
+  <h1> <center>#Oi eu sou Willow, criador De aplicaçao web e desktop</center></h1>
+   <h4 style="color🔻">  Bio:
+Desenvolvedor de software apaixonado com experiência abrangente em diversas tecnologias, incluindo Python, C++, C#, HTML, CSS e JavaScript. Especializado em criar soluções robustas e eficientes, combinando habilidades de programação avançadas com um profundo conhecimento em design e segurança de software.</h4>
   <a href="https://github.com/willowdias">
   <img height="180em" src="https://media.licdn.com/dms/image/C4D16AQHlTXhuMtLdlA/profile-displaybackgroundimage-shrink_350_1400/0/1661009366436?e=1712793600&v=beta&t=hcOgPnGLJkKp3vvFt1e9KsSb7CzoIb4uXyOBfAA2i-8"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowdias&layout=compact&langs_count=7&theme=dracula"/>
