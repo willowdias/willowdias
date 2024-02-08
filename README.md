@@ -1,8 +1,9 @@
-#Oiii eu sou Willow, criador De aplicaçao web e desktop
+
 
 <div align="center">
+  <h1> <center>#Oiii eu sou Willow, criador De aplicaçao web e desktop</center></h1>
   <a href="https://github.com/willowdias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willowdias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://media.licdn.com/dms/image/C4D16AQHlTXhuMtLdlA/profile-displaybackgroundimage-shrink_350_1400/0/1661009366436?e=1712793600&v=beta&t=hcOgPnGLJkKp3vvFt1e9KsSb7CzoIb4uXyOBfAA2i-8"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowdias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
